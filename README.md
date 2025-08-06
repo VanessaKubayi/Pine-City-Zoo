@@ -11,7 +11,7 @@
 ---
 
 ## 📸 Preview
-<img width="600" height="250" alt="screenshot png" src="https://github.com/user-attachments/assets/49a7523e-74eb-4011-93eb-fae7cfed0c91" />
+<img width="300" height="150" alt="screenshot png" src="https://github.com/user-attachments/assets/49a7523e-74eb-4011-93eb-fae7cfed0c91" />
 
 
 ## 🛠️ Technologies Used
