@@ -12,7 +12,7 @@
 
 ## 📸 Preview
 
-![Project Screenshot](images/screenshot.png)  
+![Project Screenshot](images/screenshot.png)
 <!-- Make sure you upload a screenshot to an 'images' folder and name it screenshot.png -->
 
 ---
