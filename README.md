@@ -11,6 +11,8 @@
 ---
 
 ## 📸 Preview
+<img width="1811" height="913" alt="screenshot png" src="https://github.com/user-attachments/assets/49a7523e-74eb-4011-93eb-fae7cfed0c91" />
+
 
 ![Project Screenshot](images/screenshot.png)
 <!-- Make sure you upload a screenshot to an 'images' folder and name it screenshot.png -->
